@@ -1,0 +1,35 @@
+.selected{
+    transform: scale(1.2,1.2);
+    background-color: hsl(46, 91%, 48%);
+}
+#submit{
+    width: 100px;
+    height: 50px;
+}
+.canSubmit{
+    background-color: hsl(0, 84%, 63%);
+}
+#result,#message{
+    font-size: 3em;
+}
+#paper,#rock,#scissors{
+    border: 2px,solid;
+    margin: 20px;
+    transition: transform 0.9s ease;
+    
+}
+#chose{
+    font-size: 3em;
+   color: hsl(190, 100%, 80%);
+   border: 4px solid black;
+   text-align: center;
+}
+#scores{
+    font-size: 3em;
+}
+body{
+    border: 2px solid;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}

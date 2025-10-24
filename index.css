@@ -1,0 +1,35 @@
+#homebox{
+    border: 4px solid;
+    background-color: hsl(240, 100%, 80%);
+    text-align: center;
+    min-height: 1300px;
+}
+h1{
+    font-size: 10em;
+}
+#infbutton,#survbutton,#accbutton{
+    width: 1000px;
+    height: 150px;
+    font-size: 3em;
+    transition: all 0.3s ease;
+    background-color: hsl(240, 100%, 90%);
+}
+#infbutton:hover{
+    background-color: green;
+}
+#survbutton:hover{
+    background-color: red
+}
+#accbutton:hover{
+    background-color: cadetblue;
+}
+#acc{
+    border: 4px solid black;
+    background-color: rgb(77, 180, 184); ;
+    font-size: 2em;
+    display: none;
+
+}
+#resetProgress{
+    color: red;
+}
