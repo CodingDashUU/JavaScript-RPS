@@ -20,11 +20,24 @@ Download VS Code or any IDE or Code Editor that supports Live Server,
 1.  The AI highlights its choice (the 3 pictures) in red, allowing for a more visual representation compared to the text alone
 ## SMART AI THINKING
 1. The computer thinks before choosing its option, allowing for a more natural gameplay.
-
+## HOME PAGE
+1. Where you can select the game mode, either between Infinite or Survival Mode
+2. You can also view your Infinite Scores and Survival Wins under Account button
+3. You can also clear your progress (not recommended)
 # GAME MODES
 
 ## Infinite Mode
 A mode where you play against the computer as many rounds as you please, you can earn as much points as needed
 ## Survival Mode
 A mode where you and the computer have a limited amount of points (about 3), if you win the round, the computer loses a point, if the computer wins the round, then you lose, first one to 0 points LOSE the game.
+
+Home Page / Menu (click Account to get the scores below)
+![alt text](image.png)
+
+Infinite Mode, I have won once
+![alt text](image-1.png)
+
+Survival Mode, Computer has lost 1 point
+![alt text](image-2.png)
+
 
